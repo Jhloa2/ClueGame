@@ -1,0 +1,11 @@
+X, Closet, Other
+W, Walkway, Other
+B, Bedroom, Card
+S, Sauna, Card
+L, Library, Card
+R, Bathroom, Card
+P, Pool, Card
+O, Office, Card
+D, Dancing Hall, Card
+K, Kitchen, Card
+C, Pantry, Card

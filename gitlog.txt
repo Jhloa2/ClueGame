@@ -1,0 +1,117 @@
+Note: We did most of part 3 as pair programming. 
+
+
+commit aaeb5f81d5aa1a321b306fee7a4ed6a3d415dad1
+Author: Jordan Kincaid-Smith <Jordan Kincaid-Smith>
+Date:   Thu Mar 3 23:19:01 2016 -0700
+
+    Part 3 working now. All tests passing
+
+commit f5b062937fc98e6bcc5089a0e2ae0766cc8e15f7
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 20:51:42 2016 -0700
+
+    All tests but for BadConfigFileException work with Cindis files. Errors with our files
+
+commit 48743688ddbc3285c9802bd2eb247546b92baf9b
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 19:42:07 2016 -0700
+
+    fixed off by one error in loading board, door directions pass
+
+commit 4ffd66e42e371156ef7a3adb481d447439acba23
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 18:41:12 2016 -0700
+
+    num rows and cols pass
+
+commit 24ea1d53e6d4d23160261fc583fa3900cc22554f
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 17:19:34 2016 -0700
+
+    testRooms passes. A lot of code commented out for incremental testing
+
+commit 32a91b56982391300d4d4c5d62e4691f64fba9a7
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 14:25:37 2016 -0700
+
+    Load legend file works, but tests aren't running
+
+commit 4b6e24018bc4f44f71d0d3f7bb35e4ba82e776df
+Merge: e7e344e 7fced16
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 13:28:01 2016 -0700
+
+    fixed merge errors
+
+commit e7e344e30035210fdab66af58b3ee1dd6200ab69
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 12:30:03 2016 -0700
+
+    Reads legend file with delim ,
+
+commit 7fced1693764f280d997c58ce220f3686036098b
+Author: unknown <jkincaid@MZ026-12.adit.mines.edu>
+Date:   Tue Mar 1 12:01:34 2016 -0700
+
+    Added loadboardconfig logic (I think it should work)
+
+commit 9a357030f56e223c1c00476ae48af304d614eae5
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 10:43:40 2016 -0700
+
+    fixed board size
+
+commit 2ad62899c3734e50b62f024c421ec6c698a24807
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Tue Mar 1 00:55:03 2016 -0700
+
+    Made test files applicable to own game board
+
+commit 85c6c571cd1e26eb45e12126f5c08c98902b4ddb
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 22:19:11 2016 -0700
+
+    Code runs, all test fail
+
+commit d07bc9827d722861b7a26ed822280aa335a42d13
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 22:14:05 2016 -0700
+
+    some saving errors fixed
+
+commit f9cd3f29853c81b0f360fe3bf99efe73d89e345a
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 22:10:49 2016 -0700
+
+    added all funtions, getters necessary to run tests
+
+commit 4e97c4cfc26136598cbb6d2f0b6d0f770c19f9d5
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 21:04:22 2016 -0700
+
+    added enum types
+
+commit ada1fa53bc8d10e8fb053b6bf6fba842a90bfa46
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 20:54:12 2016 -0700
+
+    added skeleton to BoardCell class
+
+commit d95955a1f3c696e2841b21b5a9d4061265a887f7
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 20:47:59 2016 -0700
+
+    added skeleton methods and members to Board class
+
+commit cf783fc5ce5d5e218bcab00369d2404000d9727e
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 20:06:39 2016 -0700
+
+    initial commit, nothing in classes
+
+commit 12944f0818d89a90d29417f8d017c710aa370dbf
+Author: Hanna Barringer <hbarring@mines.edu>
+Date:   Mon Feb 29 09:41:48 2016 -0700
+
+    Initial commit
